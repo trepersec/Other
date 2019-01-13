@@ -1,0 +1,92 @@
+~~ There's quite a bit I didn't include but this is a good enough list of things I intend to try/accomplish over the years ~
+
+On-going: school, work, certifications, reading, educational videos, and doing something below.
+
+To-do List (Not in order of priority):
+
+1.	CTFs (smashthestack, overthewire, Embedded Security, pwn, & many..MANY..more!)
+2.	Suricata (installed before but want to document the process)
+3.	Dual-boot
+4.	Bro (installed before but want to document the process)
+5.	Snort (installed before but want to document the process)
+6.	Linux (Ubuntu) FTP Server (vsftpd)
+7.	Logging
+8.	Netwag (tool)
+9.	Ostinato (tool)
+10.	PC Inspector file recovery (tool)
+11.	Valkyrie (online AV tool)
+12.	JoeSanboxCloud (online AV tool)
+13.	Vicheck (online AV tool)
+14.	Net spy pro (tool)
+15.	Veriato
+16.	ObserveIT
+17.	Splunk ((installed before but want to document the process)
+18.	Securonix
+19.	Fireeye’s Redline
+20.	DumpIT (tool)
+21.	FTK Imager & other tools (tool)
+22.	AD Triage
+23.	COFEE (Computer Online Forensic Evidence Extractor) – (tool)
+24.	E-fense (tools)
+25.	Memoryze (tool)
+26.	Malwarehelp toolset
+27.	Raptor (tool)
+28.	Hacker’s Arise (training)
+29.	Youtube: TheNetworkingDoctors, MalwareAnalysisForHedgehogs, LiveOverflow, Joseph Delgadillo, 
+30.	IDA Pro guide (have experience but not formal, only self-taught through a separate book)
+31.	OpenNMS (network monitoring and management platform)
+32.	Nagios (network monitoring and management platform)
+33.	Squid web proxy (tried before but was unsuccessful)
+34.	Rockit (game emulator)
+35.	Redis (cache system)
+36.	Active Directory setup
+37.	Raspberry Pi Home Security project (need around $200 and a pi 3)
+38.	Yara (malware analysis)
+39.	Awesome Penetration testing (toolset)
+40.	Limon Sandbox (malware analysis)
+41.	Halcyon IDE (Nmap scripting IDE)
+42.	Red-Teaming-Toolkit
+43.	Archery (vulnerability assessment and management tool)
+44.	Lpeworkshop (tool)
+45.	Tuts4You tutorials (malware analysis main focus but there’s more!)
+46.	Certifications: GREM (GIAC Reverse Engineering Malware), CySA, CCNA, Cloud, Windows, Linux, CISSP
+47.	Damn Vulnerable Web Application (DVWA)
+48.	Sublist3r (enumeration tool)
+49.	Gobuster (DNS tool)
+50.	Sn1per (red team tool)
+51.	OWASP Mth3l3m3nt Framework
+52.	Sandmap (reconnaissance tool)
+53.	Tmux
+54.	BWAPP (web application fuzzing)
+55.	Hackthissite
+56.	Hackthis
+57.	Scripting Ideas: setup window’s explorer columns, automate "sigverif" tool
+58.	Prismstumbler (network tool)
+59.	Netstumbler (network tool)
+60.	Ettercap (network tool)
+61.	Airmagnet (wireless network tool)
+62.	SATAN (tool)
+63.	SAINT (tool)
+64.	Nessus (who hasn’t used this? But want to have a more formal and documented experience)
+65.	Bluejacking tools
+66.	OWASP web goat (fuzzing)
+67.	Kismet Wireless
+68.	Msfgui (Metasploit Framework GUI)
+69.	GFI Languard (demo tool)
+70.	Nikto (tool)
+71.	W3af (tool)
+72.	Firesheep (HTTP session hijacking)
+73.	Scapy (packet manipulation)
+74.	Blacksheep (browser hijacking add-on)
+75.	CERT BFF (fuzzing)
+76.	Vulnhub
+77.	Modsecurity
+78.	static-binaries (portable toolset)
+79.	xori (disassembler)
+80.	pentesterlab
+81.	juice-shop (web app fuzzing)
+82.	os-tutorial (LFS—linux from scratch--type of deal)
+83.	Linux workstation security checklist
+84.	Kubernetes The Hard Way
+85.	Kerberos
+

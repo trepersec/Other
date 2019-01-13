@@ -1,0 +1,21 @@
+Understanding Web Applications 
+~~~ Notes ~~~
+
+10/13/18-
+
+What is a POST request?
+- A POST request is an HTTP method to pass parameters to a web application
+
+What is JSON?
+- file format that makes data easier to read for human eyes.
+
+Base64?
+- Encoding scheme
+- easily reconigizble by equal signs at the end of the string
+- Ex: V2VsY29tZSB0byBDUFRDIQ==
+
+SQL:
+- Structured Query Language is used to communicate with a database
+- SQL Injections are when a web application sends a query to some SQL database but does not sanitize their inputs, allowing a user to insert snippets of SQL which will execute from said SQL database
+- Union Based SQL Injection - This technique allows for us to extract information from the database via the union operator
+- Blind SQL Injection is when the web application has been configured to show generic error messages relating to the invalid query, but has not actually fixed the vulnerability. 
