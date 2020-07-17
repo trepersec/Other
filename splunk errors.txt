@@ -1,0 +1,16 @@
+SPLUNK erros:
+
+------------------ 1 ---------------
+
+problem: After setup, you're unable to remotely connect to the webGUI
+
+solution: expose the port 8000 via iptable or windows firewall 
+source: https://answers.splunk.com/answers/41025/cant-access-splunk-web-remotely.html
+
+-------------- 2 -------------------------
+
+problem: 500 internal server error on web page after startup
+
+solution: For me, this occured when I set a staic IP address for the webGUI via "SPLUNK_BINDIP=10.10.10.1" in the splunk-launch.conf. What you must do is go in the web.conf (splunk\etc\system\default\web.conf for Windows) and set the same address to the variable "mgmtHostPort = 127.0.0.1" on line ~32.
+source: https://docs.splunk.com/Documentation/Splunk/7.2.3/Admin/BindSplunktoanIP
+

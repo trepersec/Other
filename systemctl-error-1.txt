@@ -1,0 +1,8 @@
+Systemctl error #1
+
+"Failed to start/enable [name of service].service: Unit [name of service].service is masked"
+
+Solution:
+sudo systemctl unmask [name of service]
+
+source: https://unix.stackexchange.com/questions/313141/failed-to-start-isc-dhcp-server-service-unit-isc-dhcp-server-service-is-mask

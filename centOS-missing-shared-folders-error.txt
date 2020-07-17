@@ -1,0 +1,19 @@
+CentOS/redhat error - VMware shared folders not found
+
+This is probably because VMware didn't properly install VMware tools so we basically remove it and reinstall it.
+
+(as root)
+
+yum delete open-vm-tools
+
+yum install perl
+
+(1) Guest > Install VMware Tools
+(2) mkdir /mnt/cdrom
+(3) mount /dev/cdrom /mnt/cdrom
+(4) cp /mnt/cdrom/VMwareTools-version.tar.gz /tmp/
+(5) cd /tmp
+(6) tar -zxvf VMwareTools-version.tar.gz
+(7) cd vmware-tools-distrib
+(8) ./vmware-install.pl
+(9) reboot
